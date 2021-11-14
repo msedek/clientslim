@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TestFactiva</string>
+
+<!--    <string name="iptab">http://192.168.0.34:3000/</string>
+    <string name="iptab2">http://192.168.0.34/</string>-->
+        <string name="iptab">http://35.190.140.151:3000</string>
+    <string name="iptab2">http://35.190.140.151/</string>
+
+
+    <string name="grant_type">client_credentials</string>
+    <string name="client_id">1bH36xdRvzOneqlwDgZI6C</string>
+    <string name="client_key">Nzk1Y2U2NDhmNTgxNGI0MWI4ODc4OWEyMzI2MjI4ZmM</string>
+
+    <string name="TASA_IGV">0.18</string>
+
+    <string name="VENTA_BOLETA">0003</string>
+    <string name="VENTA_FACTURA">0001</string>
+    <string name="DOC_BAJA">0008</string>//VERIFICAR SI NOTA DE DEBITO ES DOC DE BAJA?
+    <string name="DOC_NDC">0007</string>
+
+
+</resources>
